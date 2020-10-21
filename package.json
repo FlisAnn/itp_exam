@@ -1,0 +1,10 @@
+{
+  "name": "itp_exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "flis_ann <ann.flismark@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}
